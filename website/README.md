@@ -1,7 +1,7 @@
-2# Tools for creating http://jakevdp.github.io/PythonDataScienceHandbook/
+2# Tools for creating http://an-autodidact.github.io/PythonDataScienceHandbook/
 
 The website is generated using the [Pelican](http://docs.getpelican.com/) static site generator.
-The themes here are adapted from those used for my blog: https://github.com/jakevdp/jakevdp.github.io-source
+The themes here are adapted from those used for my blog: https://github.com/an-autodidact/an-autodidact.github.io-source
 
 ## Building the Website
 
