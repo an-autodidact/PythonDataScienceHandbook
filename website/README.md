@@ -8,7 +8,7 @@ The themes here are adapted from those used for my blog: https://github.com/an-a
 Clone the repository & make sure submodules are included
 
 ```
-$ git clone https://github.com/jakevdp/PythonDataScienceHandbook.git
+$ git clone https://github.com/an-autodidact/PythonDataScienceHandbook.git
 $ git checkout origin/website
 $ git submodule update --init --recursive
 $ cd website
